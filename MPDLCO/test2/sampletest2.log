@@ -1,0 +1,10 @@
+ERROR: Unknown Symbol add as operand is at line 2
+ERROR: Unknown Symbol SET -10 as operand is at line 4
+ERROR: Undefined mnemonic 0XFat line 5
+ERROR: Unknown Symbol 10 10 10 as operand is at line 6
+ERROR: Unknown Symbol adc as operand is at line 7
+ERROR: Unknown Symbol notthere as operand is at line 8
+ERROR: Unknown Symbol br as operand is at line 9
+ERROR: Unknown Symbol  as operand is at line 10
+ERROR: Undefined mnemonic 0000000at line 11
+ERROR: Undefined mnemonic 24at line 12

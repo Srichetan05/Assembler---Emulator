@@ -1,0 +1,6 @@
+PC: 00000000	SP: 00000000	A: 00000000	B: 00000000 ldc 0
+PC: 00000001	SP: 00000000	A: 00000000	B: 00000000 ldc -5
+PC: 00000002	SP: 00000000	A: fffffffb	B: 00000000 ldc 5
+PC: 00000003	SP: 00000000	A: 00000005	B: fffffffb br -1
+Infinite loop detected at PC 00000003
+Total of 4 instructions executed

@@ -1,0 +1,9 @@
+Error in4: Label name already exists
+Error in10: Incorrect Label name(not valid)
+ERROR: Unknown Symbol nonesuch as operand is at line 5
+ERROR: Unknown Symbol 08ge as operand is at line 6
+ERROR: Unknown Symbol  as operand is at line 7
+ERROR: Operand not expected foradd at line 8
+ERROR: Unknown Symbol 5, 6 as operand is at line 9
+ERROR: Undefined mnemonic fibbleat line 11
+ERROR: Undefined mnemonic 0defat line 12
