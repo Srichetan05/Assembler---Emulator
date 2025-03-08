@@ -4,7 +4,7 @@ Name :  G.Srichetan Reddy
 Roll no : 2301CS54
 
 Declaration of Authorship
-This txt file , claims.txt is a part of assignment of CS2102_PROJECT
+This is a part of assignment of CS2102_PROJECT
 at the Department of Computer Science and Engineering , IIT PATNA.
 ********************************************************************/
 #include <bits/stdc++.h>
