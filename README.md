@@ -43,7 +43,9 @@ Run the emulator:
 ```sh
 ./emulator
 ```
--Asks for input of machine code(assembler generated) file after executing the .exe file
+- Asks for input of machine code(assembler generated) file after executing the .exe file
+
+- Bubble Sort png file shows how to run both the files
 
 ## File Structure
 - `asm.cpp` - Source code for the assembler
